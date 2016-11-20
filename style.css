@@ -1,0 +1,16 @@
+.container {
+  /*overflow-y: auto;*/
+  /*min-height: calc(100vh - 128px - 99px - 76px);*/
+}
+
+.card-media {
+  background-color: #999999;
+}
+
+md-toolbar.transparent {
+  background-color: transparent;
+}
+
+md-card-content a, .md-list-item-text p {
+  word-break:break-all;
+}
